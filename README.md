@@ -10,4 +10,5 @@ Please take a look at the files *docs/Cajon Online Requirements.docx*
 - **Programming Languages:** Java, Javascript, HTML, CSS.
 
 # How to set up environment?
-Please install XAMPP (Apache, MySQL). That's it.
+- Please install XAMPP (Apache, MySQL).
+- Also need to install TomCat server as well.
