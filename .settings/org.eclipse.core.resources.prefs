@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/add_product.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/edit_product.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/edit_profile.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/home.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/login.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/register.jsp=UTF-8
+encoding//WebContent/index.jsp=UTF-8
+encoding//src/main/java/com/cajon/controllers/BaseControllers.java=UTF-8
+encoding//src/main/java/com/cajon/utils/DBUtil.java=UTF-8
